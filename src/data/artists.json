@@ -1,0 +1,142 @@
+[
+  {
+    "id": "1",
+    "name": "Aarav Singh",
+    "category": "Singer",
+    "location": "Delhi",
+    "priceRange": "₹10k–20k"
+  },
+  {
+    "id": "2",
+    "name": "Archana Das",
+    "category": "Dancer",
+    "location": "Goa",
+    "priceRange": "₹20k–30k"
+  },
+  {
+    "id": "3",
+    "name": "DJ Rishi",
+    "category": "DJ",
+    "location": "Bangalore",
+    "priceRange": "₹10k–20k"
+  }
+  ,
+  {
+    "id": "21",
+    "name": "Ruhi Das",
+    "category": "Dancer",
+    "location": "UP",
+    "priceRange": "₹20k–30k"
+  },
+  {
+    "id": "4",
+    "name": "Kangana Das",
+    "category": "Dancer",
+    "location": "Mizoram",
+    "priceRange": "₹20k–30k"
+  },
+  {
+    "id": "5",
+    "name": "Sahili Das",
+    "category": "Dancer",
+    "location": "Jaunpur",
+    "priceRange": "₹20k–30k"
+  },
+  {
+    "id": "6",
+    "name": "Aditi Das",
+    "category": "Dancer",
+    "location": "Mirpur",
+    "priceRange": "₹20k–40k"
+  },
+  {
+    "id": "7",
+    "name": "Archana Das",
+    "category": "Dancer",
+    "location": "Dispur",
+    "priceRange": "₹20k–30k"
+  },
+  {
+    "id": "8",
+    "name": "Loha Das",
+    "category": "Dancer",
+    "location": "Assam",
+    "priceRange": "₹20k–30k"
+  },
+  {
+    "id": "9",
+    "name": "Meera Das",
+    "category": "Dancer",
+    "location": "Mumbai",
+    "priceRange": "₹20k–30k"
+  },
+  {
+    "id": "10",
+    "name": "Meera Das",
+    "category": "Dancer",
+    "location": "Mumbai",
+    "priceRange": "₹20k–30k"
+  },
+  {
+    "id": "11",
+    "name": "Meera Das",
+    "category": "Dancer",
+    "location": "Mumbai",
+    "priceRange": "₹20k–30k"
+  },
+  {
+    "id": "12",
+    "name": "Meera Das",
+    "category": "Dancer",
+    "location": "Mumbai",
+    "priceRange": "₹20k–30k"
+  },
+  {
+    "id": "13",
+    "name": "Meera Das",
+    "category": "Dancer",
+    "location": "Mumbai",
+    "priceRange": "₹20k–30k"
+  },
+  {
+    "id": "14",
+    "name": "Meera Das",
+    "category": "Dancer",
+    "location": "Mumbai",
+    "priceRange": "₹20k–30k"
+  }
+  ,
+  {
+    "id": "15",
+    "name": "Meera Das",
+    "category": "Dancer",
+    "location": "Mumbai",
+    "priceRange": "₹20k–30k"
+  },
+  {
+    "id": "16",
+    "name": "Meera Das",
+    "category": "DJ",
+    "location": "Mumbai",
+    "priceRange": "₹20k–30k"
+  },
+  {
+    "id": "19",
+    "name": "Meera Das",
+    "category": "Dancer",
+    "location": "Mumbai",
+    "priceRange": "₹20k–30k"
+  },{
+    "id": "17",
+    "name": "Meera Das",
+    "category": "Speaker",
+    "location": "Mumbai",
+    "priceRange": "₹20k–30k"
+  },{
+    "id": "18",
+    "name": "Meera Das",
+    "category": "Speaker",
+    "location": "Mumbai",
+    "priceRange": "₹20k–30k"
+  }
+]

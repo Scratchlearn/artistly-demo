@@ -1,0 +1,7 @@
+[
+  { "name": "Singers", "image": "/images/singer.jpg" },
+  { "name": "Dancers", "image": "/images/dancer.jpg" },
+  { "name": "Speakers", "image": "/images/speaker.jpg" },
+  { "name": "DJs", "image": "/images/dj.jpg" }
+  
+]
